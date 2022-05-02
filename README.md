@@ -1,6 +1,7 @@
 # Machine Learning Approach to English POS Tagging using NLTK
 
 English Corpus POS Tagging using NLTK. NLTK means Natural Language Toolkit.
+
 **A short note on NLTK:** _The Natural Language Toolkit, or more commonly NLTK, is a suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English written in the Python programming language._
 
 ## Methodology:
@@ -13,8 +14,9 @@ English Corpus POS Tagging using NLTK. NLTK means Natural Language Toolkit.
 6. Applied POS Tagging from NLTK to tokenize & categorizing each of the English Word into different Parts of Speech tags. 
 
 ## Tools & Library requirements:
-1.Google Colab/Jupyter
-2. NLTK Library
+1. Google Colab/Jupyter Notebook
+2. Language: Python
+3. NLTK Library
 
 ### Mentor
 Prof. Sandipan Ganguly, HIT-K
